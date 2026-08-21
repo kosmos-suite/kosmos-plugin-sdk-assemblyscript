@@ -1,0 +1,14 @@
+{
+  "name": "@kosmos-suite/plugin-sdk-assemblyscript",
+  "version": "0.1.0",
+  "description": "Guest-side runtime for Kosmos WASM plugins written in AssemblyScript",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosmos-suite/kosmos-plugin-sdk-assemblyscript.git"
+  },
+  "type": "module",
+  "devDependencies": {
+    "assemblyscript": "^0.28.20"
+  }
+}
